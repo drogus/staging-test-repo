@@ -1,0 +1,7 @@
+sudo: false
+
+script: echo foo
+
+env:
+  - FOO=1
+  - FOO=2
